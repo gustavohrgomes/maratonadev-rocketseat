@@ -1,0 +1,23 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "description": "Este repositório tem por objetivo armazenar as informações da maratona Dev e facilitar o processo de aprendizagem.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavohrgomes/maratonadev-rocketseat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavohrgomes/maratonadev-rocketseat/issues"
+  },
+  "homepage": "https://github.com/gustavohrgomes/maratonadev-rocketseat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
